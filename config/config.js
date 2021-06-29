@@ -1,3 +1,5 @@
+'use strict';
+
 let bmi_categories = {
     underweight: 'Underweight',
     normalweight: 'Normalweight',
